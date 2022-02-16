@@ -1,0 +1,6 @@
+#root {
+  @apply xl:container mx-auto;
+  .content, footer {
+    @apply px-4;
+  }
+}
